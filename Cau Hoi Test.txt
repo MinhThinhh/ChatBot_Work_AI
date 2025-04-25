@@ -1,0 +1,27 @@
+"COVID-19 đã ảnh hưởng như thế nào đến thị trường lao động?"
+"Những xu hướng việc làm mới nào đang phát triển sau đại dịch?"
+"Làm việc từ xa có những ưu và nhược điểm gì?"
+Câu hỏi trung bình (Kiểm tra khả năng phân tích và tổng hợp)
+"So sánh tác động của COVID-19 đến các ngành nghề khác nhau?"
+"Những kỹ năng nào sẽ quan trọng trong tương lai của công việc?"
+"Làm thế nào để doanh nghiệp thích ứng với mô hình làm việc mới?"
+Câu hỏi nâng cao (Kiểm tra khả năng phân tích sâu và đánh giá)
+"Phân tích tác động lâu dài của đại dịch COVID-19 đến cấu trúc việc làm toàn cầu?"
+"Đánh giá hiệu quả của các chính sách hỗ trợ việc làm sau đại dịch?"
+"Dự đoán những thay đổi trong mô hình tuyển dụng và quản lý nhân sự trong tương lai?"
+Câu hỏi đa ngôn ngữ (Kiểm tra khả năng xử lý ngôn ngữ)
+"What are the key trends in remote work after COVID-19?"
+"How has digital transformation accelerated during the pandemic?"
+"What skills will be most valuable in the post-pandemic job market?"
+Câu hỏi kết hợp (Kiểm tra khả năng tổng hợp thông tin từ nhiều nguồn)
+"Phân tích mối quan hệ giữa công nghệ AI và tương lai của việc làm?"
+"Đánh giá tác động của tự động hóa đến việc làm trong bối cảnh hậu COVID?"
+"Làm thế nào để cân bằng giữa hiệu suất và sức khỏe tinh thần trong môi trường làm việc mới?"
+Câu hỏi thực tế (Kiểm tra khả năng áp dụng)
+"Tôi nên chuẩn bị những kỹ năng gì để thích ứng với thị trường lao động mới?"
+"Làm thế nào để tìm việc hiệu quả trong thời kỳ hậu COVID?"
+"Các doanh nghiệp cần làm gì để thu hút và giữ chân nhân tài trong môi trường làm việc mới?"
+Câu hỏi so sánh (Kiểm tra khả năng phân tích so sánh)
+"So sánh mô hình làm việc trước và sau COVID-19?"
+"Phân tích sự khác biệt trong tác động của đại dịch đến các quốc gia khác nhau?"
+"Đánh giá hiệu quả của các mô hình làm việc kết hợp (hybrid) so với làm việc hoàn toàn từ xa?"

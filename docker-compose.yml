@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  chatbot:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - ./data:/app/data  
+      - ./chroma_store:/app/chroma_store  
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped 

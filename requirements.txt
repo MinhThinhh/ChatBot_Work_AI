@@ -1,0 +1,16 @@
+streamlit>=1.24.0
+openai>=0.27.0
+python-dotenv>=0.19.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+langchain>=0.0.300
+langchain-community>=0.0.10
+chromadb>=0.4.0
+networkx>=3.1
+rank-bm25>=0.2.2
+python-docx>=0.8.11
+pypdf
+docx2txt>=0.8
+nltk>=3.8.1
+tqdm>=4.65.0
+tiktoken
